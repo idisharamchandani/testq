@@ -1,0 +1,166 @@
+.loginbg{
+    background-image: url('../Images/loginbg.jpg');
+    background-repeat: no-repeat;  
+    background-size: cover; 
+    height:100vh;
+    position: relative;
+    width: 1530px;
+}
+
+.loginheading{
+   
+    font-family: Supernett cn, Helvetica, Arial, sans-serif;
+    font-size: 26px;
+    font-weight: 700;
+    color: #7c4199;
+    margin-top: 40px;
+  
+    
+
+}
+.loginform{
+margin-top: 40px;
+}
+
+@font-face {font-family: "Supernett cn"; 
+    src: url("//db.onlinewebfonts.com/t/c4926aaaea851f065d2a0be3e06bb40c.eot"); 
+    src: url("//db.onlinewebfonts.com/t/c4926aaaea851f065d2a0be3e06bb40c.eot?#iefix") 
+    format("embedded-opentype"), 
+    url("//db.onlinewebfonts.com/t/c4926aaaea851f065d2a0be3e06bb40c.woff2") format("woff2"), 
+    url("//db.onlinewebfonts.com/t/c4926aaaea851f065d2a0be3e06bb40c.woff") format("woff"), 
+    url("//db.onlinewebfonts.com/t/c4926aaaea851f065d2a0be3e06bb40c.ttf") format("truetype"), 
+    url("//db.onlinewebfonts.com/t/c4926aaaea851f065d2a0be3e06bb40c.svg#Supernett cn") format("svg"); 
+}
+
+
+
+.title{
+font-family: Supernett cn, Helvetica, Arial, sans-serif;
+font-size: 50px;
+font-weight: 900;
+font-style: bold;
+color: #7c4199;
+}
+
+.form-control
+{
+border-radius: none!important;
+}
+
+.logininput{
+width: 100%;
+padding: 5px;
+border: 1px solid #dddddd;
+}
+
+/* .email{
+    position: absolute;
+}
+.fa-envelop{
+    position: relative;
+    top: -50px;
+    left: -42px;
+} */
+
+.form-check-input{
+padding: 5px;
+border-color: rgba(0, 0, 0, 0.534)!important;
+}
+
+.me-5{
+
+margin-left: -100px!important;
+margin-right: 102px!important;
+
+}
+
+.font{
+font-family: 'Dosis', sans-serif,Supernett cn, Helvetica, Arial;
+font-weight: 700;
+font-style: bold;
+width: 90%;
+
+}
+
+
+.loginbutton
+{
+
+background-color: #00958f;
+border:none;
+margin-top: 10px;
+margin-left: 20px;
+border-radius: 2px;
+padding: 5px 35px 5px 35px;
+font-family: 'Dosis', sans-serif;
+font-weight: 900;
+font-style: bold;
+margin-bottom: 10px;
+}
+
+.loginbutton:hover
+{
+background-color:red;
+}
+
+.passwordtext
+{
+font-family: 'Dosis', sans-serif;
+font-weight: 500;
+font-style: bold;
+margin-left: 20px;
+color: #00958f;
+text-decoration: none;
+transition: all .2s linear;
+margin-bottom: 70px;
+
+}
+
+.passwordtext:hover
+{
+color:red;
+
+cursor: pointer;
+}
+
+
+.heading{
+font-family: Supernett cn, Helvetica, Arial, sans-serif;
+font-size: 25px;
+font-weight: 900;
+font-style: bold;
+color: #7c4199;
+}
+
+/* .email{
+    position: relative;
+}
+
+.fa-envelope{
+    position: absolute;
+    left: 10px;
+    top: -35px;
+    height: 25px;
+    color: gray;
+} */
+
+
+.login{
+    margin-top: 150px!important;
+}
+
+/* .butn{
+    position: relative;
+} */
+
+/* .fa-right-to-bracket{
+    position: relative;
+    top: 35px;
+    left: -42px;
+    color: white;
+} */
+
+
+
+
+

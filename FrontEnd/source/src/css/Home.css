@@ -1,0 +1,21 @@
+.bgimg{
+    background-image: url('../Images/bg.jpg');
+    background-repeat: no-repeat;  
+    background-size: cover; 
+    height:900px;
+    position: relative;
+  
+}
+
+.bar{
+   color: white!important;
+}
+
+.bgtext{
+    position: absolute;
+    text-align: center;
+    color: white;
+    top:40%;
+    left: 35%;
+}
+

@@ -1,0 +1,401 @@
+[{
+  "_id": {
+    "$oid": "631b2822cfa5afa4f3e51391"
+  },
+  "Standard": 6,
+  "Questions": "Which Italian city has a famous leaning tower?",
+  "Correct_Answers": "Pisa",
+  "Options": [
+    "Venice",
+    "Pisa",
+    "Florence"
+  ],
+  "Subject": "GK",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-09T11:48:50.314Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-09T11:48:50.314Z"
+  }
+},{
+  "_id": {
+    "$oid": "631b2822cfa5afa4f3e51392"
+  },
+  "Standard": 6,
+  "Questions": "How many players are there in a basketball team?",
+  "Correct_Answers": "10",
+  "Options": [
+    "7",
+    "10",
+    "5"
+  ],
+  "Subject": "GK",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-09T11:48:50.315Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-09T11:48:50.315Z"
+  }
+},{
+  "_id": {
+    "$oid": "631b2822cfa5afa4f3e51393"
+  },
+  "Standard": 6,
+  "Questions": "Which of these was a popular musical instrument in the middle ages?",
+  "Correct_Answers": "The lute",
+  "Options": [
+    "the lute",
+    "the banjo",
+    "the xylophone"
+  ],
+  "Subject": "GK",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-09T11:48:50.315Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-09T11:48:50.315Z"
+  }
+},{
+  "_id": {
+    "$oid": "631b2822cfa5afa4f3e51394"
+  },
+  "Standard": 6,
+  "Questions": "What country has the most people living in it?",
+  "Correct_Answers": "China",
+  "Options": [
+    "Canada",
+    "Australia",
+    "China"
+  ],
+  "Subject": "GK",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-09T11:48:50.316Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-09T11:48:50.316Z"
+  }
+},{
+  "_id": {
+    "$oid": "631b2822cfa5afa4f3e51395"
+  },
+  "Standard": 6,
+  "Questions": "Which one of the following river flows between Vindhyan and Satpura ranges?",
+  "Correct_Answers": "Narmada",
+  "Options": [
+    "Narmada",
+    "Mahanadi",
+    "Son"
+  ],
+  "Subject": "GK",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-09T11:48:50.316Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-09T11:48:50.316Z"
+  }
+},{
+  "_id": {
+    "$oid": "631b2822cfa5afa4f3e51396"
+  },
+  "Standard": 7,
+  "Questions": "The Central Rice Research Station is situated in?",
+  "Correct_Answers": "Cuttack",
+  "Options": [
+    "Chennai",
+    "Cuttack",
+    "Bangalore"
+  ],
+  "Subject": "GK",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-09T11:48:50.316Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-09T11:48:50.316Z"
+  }
+},{
+  "_id": {
+    "$oid": "631b2822cfa5afa4f3e51397"
+  },
+  "Standard": 7,
+  "Questions": "The metal whose salts are sensitive to light is?",
+  "Correct_Answers": "Silver",
+  "Options": [
+    "Zinc",
+    "Silver",
+    "Copper"
+  ],
+  "Subject": "GK",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-09T11:48:50.317Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-09T11:48:50.317Z"
+  }
+},{
+  "_id": {
+    "$oid": "631b2822cfa5afa4f3e51398"
+  },
+  "Standard": 7,
+  "Questions": "What animal eats mainly eucalyptus leaves?",
+  "Correct_Answers": "koalas",
+  "Options": [
+    "polar bears",
+    "wallabies",
+    "koalas"
+  ],
+  "Subject": "GK",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-09T11:48:50.317Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-09T11:48:50.317Z"
+  }
+},{
+  "_id": {
+    "$oid": "631b2822cfa5afa4f3e51399"
+  },
+  "Standard": 7,
+  "Questions": "Amravati, Bhavani, Hemavati and Kabini are tributaries of which one of the following rivers?",
+  "Correct_Answers": "Cauvery",
+  "Options": [
+    "Mahanadi",
+    "Godawari",
+    "Cauvery"
+  ],
+  "Subject": "GK",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-09T11:48:50.317Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-09T11:48:50.317Z"
+  }
+},{
+  "_id": {
+    "$oid": "631b2822cfa5afa4f3e5139a"
+  },
+  "Standard": 7,
+  "Questions": "Which of the following is related to Bharat Nirman Scheme?",
+  "Correct_Answers": "Infrastructure development",
+  "Options": [
+    "Foodgrain production self sufficiency",
+    "Family welfare programme",
+    "Infrastructure development"
+  ],
+  "Subject": "GK",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-09T11:48:50.317Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-09T11:48:50.317Z"
+  }
+},{
+  "_id": {
+    "$oid": "631b2822cfa5afa4f3e5139b"
+  },
+  "Standard": 10,
+  "Questions": "Which of the following is NOT the language enshrined in the eighth schedule of the Indian Constitution, as the language of the state?",
+  "Correct_Answers": "English",
+  "Options": [
+    "Nepali",
+    "Kashmiri",
+    "English\n\n"
+  ],
+  "Subject": "GK",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-09T11:48:50.317Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-09T11:48:50.317Z"
+  }
+},{
+  "_id": {
+    "$oid": "631b2822cfa5afa4f3e5139c"
+  },
+  "Standard": 10,
+  "Questions": "Geet Govind is a famous creation of ……",
+  "Correct_Answers": "Jayadev",
+  "Options": [
+    "Bana Bhatt",
+    "Kalidas",
+    "Jayadev"
+  ],
+  "Subject": "GK",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-09T11:48:50.317Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-09T11:48:50.317Z"
+  }
+},{
+  "_id": {
+    "$oid": "631b2822cfa5afa4f3e5139d"
+  },
+  "Standard": 10,
+  "Questions": "Which of the following represents the Finance Commissions that have been set-up so far?",
+  "Correct_Answers": "13",
+  "Options": [
+    "10",
+    "12",
+    "13"
+  ],
+  "Subject": "GK",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-09T11:48:50.317Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-09T11:48:50.317Z"
+  }
+},{
+  "_id": {
+    "$oid": "631b2822cfa5afa4f3e5139e"
+  },
+  "Standard": 10,
+  "Questions": "World Trade Organization came into existence in……",
+  "Correct_Answers": "1995",
+  "Options": [
+    "1992",
+    "1993",
+    "1995"
+  ],
+  "Subject": "GK",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-09T11:48:50.318Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-09T11:48:50.318Z"
+  }
+},{
+  "_id": {
+    "$oid": "631b2822cfa5afa4f3e5139f"
+  },
+  "Standard": 10,
+  "Questions": "According to the Constitution of India, which of the following is NOT one of the main organs of the Government?",
+  "Correct_Answers": "Bureaucracy",
+  "Options": [
+    "Legislature",
+    "Bureaucracy",
+    "Executive"
+  ],
+  "Subject": "GK",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-09T11:48:50.318Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-09T11:48:50.318Z"
+  }
+},{
+  "_id": {
+    "$oid": "631b2822cfa5afa4f3e513a0"
+  },
+  "Standard": 11,
+  "Questions": "In which year did the Cabinet Mission arrived in India?",
+  "Correct_Answers": "1946",
+  "Options": [
+    "1942",
+    "1943",
+    "1946"
+  ],
+  "Subject": "GK",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-09T11:48:50.318Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-09T11:48:50.318Z"
+  }
+},{
+  "_id": {
+    "$oid": "631b2822cfa5afa4f3e513a1"
+  },
+  "Standard": 11,
+  "Questions": "Which of the amendments of the following constitution was responsible for deleting the right to property from the list of fundamental rights?",
+  "Correct_Answers": "44th amendment",
+  "Options": [
+    "43rd amendment",
+    "44th amendment",
+    "48th amendment"
+  ],
+  "Subject": "GK",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-09T11:48:50.318Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-09T11:48:50.318Z"
+  }
+},{
+  "_id": {
+    "$oid": "631b2822cfa5afa4f3e513a2"
+  },
+  "Standard": 11,
+  "Questions": "Which of the following is the largest and the deepest ocean in8 the world?",
+  "Correct_Answers": "Pacific",
+  "Options": [
+    "Atlantic",
+    "Pacific",
+    "Indian"
+  ],
+  "Subject": "GK",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-09T11:48:50.318Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-09T11:48:50.318Z"
+  }
+},{
+  "_id": {
+    "$oid": "631b2822cfa5afa4f3e513a3"
+  },
+  "Standard": 11,
+  "Questions": "Which of the following is not a member of the European Union?",
+  "Correct_Answers": "Norway",
+  "Options": [
+    "Greece",
+    "Finland",
+    "Norway"
+  ],
+  "Subject": "GK",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-09T11:48:50.319Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-09T11:48:50.319Z"
+  }
+},{
+  "_id": {
+    "$oid": "631b2822cfa5afa4f3e513a4"
+  },
+  "Standard": 11,
+  "Questions": "Which Indian state is inhabited by ‘Jaintiya tribes’?",
+  "Correct_Answers": "Arunachal Pradesh",
+  "Options": [
+    "Arunachal Pradesh",
+    "Mizoram",
+    "Manipur"
+  ],
+  "Subject": "GK",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-09T11:48:50.319Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-09T11:48:50.319Z"
+  }
+}]

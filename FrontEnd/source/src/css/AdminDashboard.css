@@ -1,0 +1,14 @@
+.main{
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+}
+
+.pe-auto{
+    text-decoration: none;
+    color: white;
+}
+
+.pe-auto:hover{
+    color:white;
+}

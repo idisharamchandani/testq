@@ -1,0 +1,1121 @@
+[{
+  "_id": {
+    "$oid": "6318573f2f51a342c9918195"
+  },
+  "Option1": "Venice",
+  "Option2": "Pisa",
+  "Option3": "Florence",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T08:33:03.057Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T08:33:03.057Z"
+  }
+},{
+  "_id": {
+    "$oid": "6318573f2f51a342c9918196"
+  },
+  "Option1": "7",
+  "Option2": "10",
+  "Option3": "5",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T08:33:03.058Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T08:33:03.058Z"
+  }
+},{
+  "_id": {
+    "$oid": "6318573f2f51a342c9918197"
+  },
+  "Option1": "the lute",
+  "Option2": "the banjo",
+  "Option3": "the xylophone",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T08:33:03.059Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T08:33:03.059Z"
+  }
+},{
+  "_id": {
+    "$oid": "6318573f2f51a342c9918198"
+  },
+  "Option1": "Canada",
+  "Option2": "Australia",
+  "Option3": "China",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T08:33:03.059Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T08:33:03.059Z"
+  }
+},{
+  "_id": {
+    "$oid": "6318573f2f51a342c9918199"
+  },
+  "Option1": "Narmada",
+  "Option2": "Mahanadi",
+  "Option3": "Son",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T08:33:03.059Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T08:33:03.059Z"
+  }
+},{
+  "_id": {
+    "$oid": "6318573f2f51a342c991819a"
+  },
+  "Option1": "Chennai",
+  "Option2": "Cuttack",
+  "Option3": "Bangalore",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T08:33:03.060Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T08:33:03.060Z"
+  }
+},{
+  "_id": {
+    "$oid": "6318573f2f51a342c991819b"
+  },
+  "Option1": "Zinc",
+  "Option2": "Silver",
+  "Option3": "Copper",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T08:33:03.060Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T08:33:03.060Z"
+  }
+},{
+  "_id": {
+    "$oid": "6318573f2f51a342c991819c"
+  },
+  "Option1": "polar bears",
+  "Option2": "wallabies",
+  "Option3": "koalas",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T08:33:03.060Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T08:33:03.060Z"
+  }
+},{
+  "_id": {
+    "$oid": "6318573f2f51a342c991819d"
+  },
+  "Option1": "Mahanadi",
+  "Option2": "Godawari",
+  "Option3": "Cauvery",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T08:33:03.061Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T08:33:03.061Z"
+  }
+},{
+  "_id": {
+    "$oid": "6318573f2f51a342c991819e"
+  },
+  "Option1": "Foodgrain production self sufficiency",
+  "Option2": "Family welfare programme",
+  "Option3": "Infrastructure development",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T08:33:03.061Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T08:33:03.061Z"
+  }
+},{
+  "_id": {
+    "$oid": "6318573f2f51a342c991819f"
+  },
+  "Option1": "Nepali",
+  "Option2": "Kashmiri",
+  "Option3": "English\n\n",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T08:33:03.061Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T08:33:03.061Z"
+  }
+},{
+  "_id": {
+    "$oid": "6318573f2f51a342c99181a0"
+  },
+  "Option1": "Bana Bhatt",
+  "Option2": "Kalidas",
+  "Option3": "Jayadev",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T08:33:03.061Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T08:33:03.061Z"
+  }
+},{
+  "_id": {
+    "$oid": "6318573f2f51a342c99181a1"
+  },
+  "Option1": "10",
+  "Option2": "12",
+  "Option3": "13",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T08:33:03.062Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T08:33:03.062Z"
+  }
+},{
+  "_id": {
+    "$oid": "6318573f2f51a342c99181a2"
+  },
+  "Option1": "1992",
+  "Option2": "1993",
+  "Option3": "1995",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T08:33:03.063Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T08:33:03.063Z"
+  }
+},{
+  "_id": {
+    "$oid": "6318573f2f51a342c99181a3"
+  },
+  "Option1": "Legislature",
+  "Option2": "Bureaucracy",
+  "Option3": "Executive",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T08:33:03.063Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T08:33:03.063Z"
+  }
+},{
+  "_id": {
+    "$oid": "6318573f2f51a342c99181a4"
+  },
+  "Option1": "1942",
+  "Option2": "1943",
+  "Option3": "1946",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T08:33:03.064Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T08:33:03.064Z"
+  }
+},{
+  "_id": {
+    "$oid": "6318573f2f51a342c99181a5"
+  },
+  "Option1": "43rd amendment",
+  "Option2": "44th amendment",
+  "Option3": "48th amendment",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T08:33:03.064Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T08:33:03.064Z"
+  }
+},{
+  "_id": {
+    "$oid": "6318573f2f51a342c99181a6"
+  },
+  "Option1": "Atlantic",
+  "Option2": "Pacific",
+  "Option3": "Indian",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T08:33:03.064Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T08:33:03.064Z"
+  }
+},{
+  "_id": {
+    "$oid": "6318573f2f51a342c99181a7"
+  },
+  "Option1": "Greece",
+  "Option2": "Finland",
+  "Option3": "Norway",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T08:33:03.065Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T08:33:03.065Z"
+  }
+},{
+  "_id": {
+    "$oid": "6318573f2f51a342c99181a8"
+  },
+  "Option1": "Arunachal Pradesh",
+  "Option2": "Mizoram",
+  "Option3": "Manipur",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T08:33:03.065Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T08:33:03.065Z"
+  }
+},{
+  "_id": {
+    "$oid": "631858c585c7f478f2bac140"
+  },
+  "Option1": "Venice",
+  "Option2": "Pisa",
+  "Option3": "Florence",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T08:39:33.167Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T08:39:33.167Z"
+  }
+},{
+  "_id": {
+    "$oid": "631858c585c7f478f2bac141"
+  },
+  "Option1": "7",
+  "Option2": "10",
+  "Option3": "5",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T08:39:33.168Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T08:39:33.168Z"
+  }
+},{
+  "_id": {
+    "$oid": "631858c585c7f478f2bac142"
+  },
+  "Option1": "the lute",
+  "Option2": "the banjo",
+  "Option3": "the xylophone",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T08:39:33.168Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T08:39:33.168Z"
+  }
+},{
+  "_id": {
+    "$oid": "631858c585c7f478f2bac143"
+  },
+  "Option1": "Canada",
+  "Option2": "Australia",
+  "Option3": "China",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T08:39:33.168Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T08:39:33.168Z"
+  }
+},{
+  "_id": {
+    "$oid": "631858c585c7f478f2bac144"
+  },
+  "Option1": "Narmada",
+  "Option2": "Mahanadi",
+  "Option3": "Son",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T08:39:33.168Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T08:39:33.168Z"
+  }
+},{
+  "_id": {
+    "$oid": "631858c585c7f478f2bac145"
+  },
+  "Option1": "Chennai",
+  "Option2": "Cuttack",
+  "Option3": "Bangalore",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T08:39:33.168Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T08:39:33.168Z"
+  }
+},{
+  "_id": {
+    "$oid": "631858c585c7f478f2bac146"
+  },
+  "Option1": "Zinc",
+  "Option2": "Silver",
+  "Option3": "Copper",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T08:39:33.169Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T08:39:33.169Z"
+  }
+},{
+  "_id": {
+    "$oid": "631858c585c7f478f2bac147"
+  },
+  "Option1": "polar bears",
+  "Option2": "wallabies",
+  "Option3": "koalas",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T08:39:33.169Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T08:39:33.169Z"
+  }
+},{
+  "_id": {
+    "$oid": "631858c585c7f478f2bac148"
+  },
+  "Option1": "Mahanadi",
+  "Option2": "Godawari",
+  "Option3": "Cauvery",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T08:39:33.169Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T08:39:33.169Z"
+  }
+},{
+  "_id": {
+    "$oid": "631858c585c7f478f2bac149"
+  },
+  "Option1": "Foodgrain production self sufficiency",
+  "Option2": "Family welfare programme",
+  "Option3": "Infrastructure development",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T08:39:33.169Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T08:39:33.169Z"
+  }
+},{
+  "_id": {
+    "$oid": "631858c585c7f478f2bac14a"
+  },
+  "Option1": "Nepali",
+  "Option2": "Kashmiri",
+  "Option3": "English\n\n",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T08:39:33.170Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T08:39:33.170Z"
+  }
+},{
+  "_id": {
+    "$oid": "631858c585c7f478f2bac14b"
+  },
+  "Option1": "Bana Bhatt",
+  "Option2": "Kalidas",
+  "Option3": "Jayadev",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T08:39:33.170Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T08:39:33.170Z"
+  }
+},{
+  "_id": {
+    "$oid": "631858c585c7f478f2bac14c"
+  },
+  "Option1": "10",
+  "Option2": "12",
+  "Option3": "13",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T08:39:33.170Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T08:39:33.170Z"
+  }
+},{
+  "_id": {
+    "$oid": "631858c585c7f478f2bac14d"
+  },
+  "Option1": "1992",
+  "Option2": "1993",
+  "Option3": "1995",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T08:39:33.170Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T08:39:33.170Z"
+  }
+},{
+  "_id": {
+    "$oid": "631858c585c7f478f2bac14e"
+  },
+  "Option1": "Legislature",
+  "Option2": "Bureaucracy",
+  "Option3": "Executive",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T08:39:33.171Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T08:39:33.171Z"
+  }
+},{
+  "_id": {
+    "$oid": "631858c585c7f478f2bac14f"
+  },
+  "Option1": "1942",
+  "Option2": "1943",
+  "Option3": "1946",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T08:39:33.171Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T08:39:33.171Z"
+  }
+},{
+  "_id": {
+    "$oid": "631858c585c7f478f2bac150"
+  },
+  "Option1": "43rd amendment",
+  "Option2": "44th amendment",
+  "Option3": "48th amendment",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T08:39:33.171Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T08:39:33.171Z"
+  }
+},{
+  "_id": {
+    "$oid": "631858c585c7f478f2bac151"
+  },
+  "Option1": "Atlantic",
+  "Option2": "Pacific",
+  "Option3": "Indian",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T08:39:33.171Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T08:39:33.171Z"
+  }
+},{
+  "_id": {
+    "$oid": "631858c585c7f478f2bac152"
+  },
+  "Option1": "Greece",
+  "Option2": "Finland",
+  "Option3": "Norway",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T08:39:33.171Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T08:39:33.171Z"
+  }
+},{
+  "_id": {
+    "$oid": "631858c585c7f478f2bac153"
+  },
+  "Option1": "Arunachal Pradesh",
+  "Option2": "Mizoram",
+  "Option3": "Manipur",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T08:39:33.172Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T08:39:33.172Z"
+  }
+},{
+  "_id": {
+    "$oid": "63185cacb70bfe2ce957d330"
+  },
+  "Option1": "Venice",
+  "Option2": "Pisa",
+  "Option3": "Florence",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T08:56:12.120Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T08:56:12.120Z"
+  }
+},{
+  "_id": {
+    "$oid": "63185cacb70bfe2ce957d331"
+  },
+  "Option1": "7",
+  "Option2": "10",
+  "Option3": "5",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T08:56:12.124Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T08:56:12.124Z"
+  }
+},{
+  "_id": {
+    "$oid": "63185cacb70bfe2ce957d332"
+  },
+  "Option1": "the lute",
+  "Option2": "the banjo",
+  "Option3": "the xylophone",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T08:56:12.124Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T08:56:12.124Z"
+  }
+},{
+  "_id": {
+    "$oid": "63185cacb70bfe2ce957d333"
+  },
+  "Option1": "Canada",
+  "Option2": "Australia",
+  "Option3": "China",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T08:56:12.132Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T08:56:12.132Z"
+  }
+},{
+  "_id": {
+    "$oid": "63185cacb70bfe2ce957d334"
+  },
+  "Option1": "Narmada",
+  "Option2": "Mahanadi",
+  "Option3": "Son",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T08:56:12.138Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T08:56:12.138Z"
+  }
+},{
+  "_id": {
+    "$oid": "63185cacb70bfe2ce957d335"
+  },
+  "Option1": "Chennai",
+  "Option2": "Cuttack",
+  "Option3": "Bangalore",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T08:56:12.138Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T08:56:12.138Z"
+  }
+},{
+  "_id": {
+    "$oid": "63185cacb70bfe2ce957d336"
+  },
+  "Option1": "Zinc",
+  "Option2": "Silver",
+  "Option3": "Copper",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T08:56:12.138Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T08:56:12.138Z"
+  }
+},{
+  "_id": {
+    "$oid": "63185cacb70bfe2ce957d337"
+  },
+  "Option1": "polar bears",
+  "Option2": "wallabies",
+  "Option3": "koalas",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T08:56:12.138Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T08:56:12.138Z"
+  }
+},{
+  "_id": {
+    "$oid": "63185cacb70bfe2ce957d338"
+  },
+  "Option1": "Mahanadi",
+  "Option2": "Godawari",
+  "Option3": "Cauvery",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T08:56:12.138Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T08:56:12.138Z"
+  }
+},{
+  "_id": {
+    "$oid": "63185cacb70bfe2ce957d339"
+  },
+  "Option1": "Foodgrain production self sufficiency",
+  "Option2": "Family welfare programme",
+  "Option3": "Infrastructure development",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T08:56:12.139Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T08:56:12.139Z"
+  }
+},{
+  "_id": {
+    "$oid": "63185cacb70bfe2ce957d33a"
+  },
+  "Option1": "Nepali",
+  "Option2": "Kashmiri",
+  "Option3": "English\n\n",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T08:56:12.139Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T08:56:12.139Z"
+  }
+},{
+  "_id": {
+    "$oid": "63185cacb70bfe2ce957d33b"
+  },
+  "Option1": "Bana Bhatt",
+  "Option2": "Kalidas",
+  "Option3": "Jayadev",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T08:56:12.139Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T08:56:12.139Z"
+  }
+},{
+  "_id": {
+    "$oid": "63185cacb70bfe2ce957d33c"
+  },
+  "Option1": "10",
+  "Option2": "12",
+  "Option3": "13",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T08:56:12.139Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T08:56:12.139Z"
+  }
+},{
+  "_id": {
+    "$oid": "63185cacb70bfe2ce957d33d"
+  },
+  "Option1": "1992",
+  "Option2": "1993",
+  "Option3": "1995",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T08:56:12.140Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T08:56:12.140Z"
+  }
+},{
+  "_id": {
+    "$oid": "63185cacb70bfe2ce957d33e"
+  },
+  "Option1": "Legislature",
+  "Option2": "Bureaucracy",
+  "Option3": "Executive",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T08:56:12.140Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T08:56:12.140Z"
+  }
+},{
+  "_id": {
+    "$oid": "63185cacb70bfe2ce957d33f"
+  },
+  "Option1": "1942",
+  "Option2": "1943",
+  "Option3": "1946",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T08:56:12.141Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T08:56:12.141Z"
+  }
+},{
+  "_id": {
+    "$oid": "63185cacb70bfe2ce957d340"
+  },
+  "Option1": "43rd amendment",
+  "Option2": "44th amendment",
+  "Option3": "48th amendment",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T08:56:12.141Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T08:56:12.141Z"
+  }
+},{
+  "_id": {
+    "$oid": "63185cacb70bfe2ce957d341"
+  },
+  "Option1": "Atlantic",
+  "Option2": "Pacific",
+  "Option3": "Indian",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T08:56:12.141Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T08:56:12.141Z"
+  }
+},{
+  "_id": {
+    "$oid": "63185cacb70bfe2ce957d342"
+  },
+  "Option1": "Greece",
+  "Option2": "Finland",
+  "Option3": "Norway",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T08:56:12.141Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T08:56:12.141Z"
+  }
+},{
+  "_id": {
+    "$oid": "63185cacb70bfe2ce957d343"
+  },
+  "Option1": "Arunachal Pradesh",
+  "Option2": "Mizoram",
+  "Option3": "Manipur",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T08:56:12.141Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T08:56:12.141Z"
+  }
+},{
+  "_id": {
+    "$oid": "63185f98b70bfe2ce957d345"
+  },
+  "Option1": "Venice",
+  "Option2": "Pisa",
+  "Option3": "Florence",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T09:08:41.008Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T09:08:41.008Z"
+  }
+},{
+  "_id": {
+    "$oid": "63185f98b70bfe2ce957d346"
+  },
+  "Option1": "7",
+  "Option2": "10",
+  "Option3": "5",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T09:08:41.010Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T09:08:41.010Z"
+  }
+},{
+  "_id": {
+    "$oid": "63185f98b70bfe2ce957d347"
+  },
+  "Option1": "the lute",
+  "Option2": "the banjo",
+  "Option3": "the xylophone",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T09:08:41.011Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T09:08:41.011Z"
+  }
+},{
+  "_id": {
+    "$oid": "63185f98b70bfe2ce957d348"
+  },
+  "Option1": "Canada",
+  "Option2": "Australia",
+  "Option3": "China",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T09:08:41.011Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T09:08:41.011Z"
+  }
+},{
+  "_id": {
+    "$oid": "63185f98b70bfe2ce957d349"
+  },
+  "Option1": "Narmada",
+  "Option2": "Mahanadi",
+  "Option3": "Son",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T09:08:41.012Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T09:08:41.012Z"
+  }
+},{
+  "_id": {
+    "$oid": "63185f98b70bfe2ce957d34a"
+  },
+  "Option1": "Chennai",
+  "Option2": "Cuttack",
+  "Option3": "Bangalore",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T09:08:41.012Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T09:08:41.012Z"
+  }
+},{
+  "_id": {
+    "$oid": "63185f99b70bfe2ce957d34b"
+  },
+  "Option1": "Zinc",
+  "Option2": "Silver",
+  "Option3": "Copper",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T09:08:41.012Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T09:08:41.012Z"
+  }
+},{
+  "_id": {
+    "$oid": "63185f99b70bfe2ce957d34c"
+  },
+  "Option1": "polar bears",
+  "Option2": "wallabies",
+  "Option3": "koalas",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T09:08:41.012Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T09:08:41.012Z"
+  }
+},{
+  "_id": {
+    "$oid": "63185f99b70bfe2ce957d34d"
+  },
+  "Option1": "Mahanadi",
+  "Option2": "Godawari",
+  "Option3": "Cauvery",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T09:08:41.013Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T09:08:41.013Z"
+  }
+},{
+  "_id": {
+    "$oid": "63185f99b70bfe2ce957d34e"
+  },
+  "Option1": "Foodgrain production self sufficiency",
+  "Option2": "Family welfare programme",
+  "Option3": "Infrastructure development",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T09:08:41.013Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T09:08:41.013Z"
+  }
+},{
+  "_id": {
+    "$oid": "63185f99b70bfe2ce957d34f"
+  },
+  "Option1": "Nepali",
+  "Option2": "Kashmiri",
+  "Option3": "English\n\n",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T09:08:41.013Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T09:08:41.013Z"
+  }
+},{
+  "_id": {
+    "$oid": "63185f99b70bfe2ce957d350"
+  },
+  "Option1": "Bana Bhatt",
+  "Option2": "Kalidas",
+  "Option3": "Jayadev",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T09:08:41.013Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T09:08:41.013Z"
+  }
+},{
+  "_id": {
+    "$oid": "63185f99b70bfe2ce957d351"
+  },
+  "Option1": "10",
+  "Option2": "12",
+  "Option3": "13",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T09:08:41.013Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T09:08:41.013Z"
+  }
+},{
+  "_id": {
+    "$oid": "63185f99b70bfe2ce957d352"
+  },
+  "Option1": "1992",
+  "Option2": "1993",
+  "Option3": "1995",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T09:08:41.014Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T09:08:41.014Z"
+  }
+},{
+  "_id": {
+    "$oid": "63185f99b70bfe2ce957d353"
+  },
+  "Option1": "Legislature",
+  "Option2": "Bureaucracy",
+  "Option3": "Executive",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T09:08:41.014Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T09:08:41.014Z"
+  }
+},{
+  "_id": {
+    "$oid": "63185f99b70bfe2ce957d354"
+  },
+  "Option1": "1942",
+  "Option2": "1943",
+  "Option3": "1946",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T09:08:41.014Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T09:08:41.014Z"
+  }
+},{
+  "_id": {
+    "$oid": "63185f99b70bfe2ce957d355"
+  },
+  "Option1": "43rd amendment",
+  "Option2": "44th amendment",
+  "Option3": "48th amendment",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T09:08:41.014Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T09:08:41.014Z"
+  }
+},{
+  "_id": {
+    "$oid": "63185f99b70bfe2ce957d356"
+  },
+  "Option1": "Atlantic",
+  "Option2": "Pacific",
+  "Option3": "Indian",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T09:08:41.014Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T09:08:41.014Z"
+  }
+},{
+  "_id": {
+    "$oid": "63185f99b70bfe2ce957d357"
+  },
+  "Option1": "Greece",
+  "Option2": "Finland",
+  "Option3": "Norway",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T09:08:41.014Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T09:08:41.014Z"
+  }
+},{
+  "_id": {
+    "$oid": "63185f99b70bfe2ce957d358"
+  },
+  "Option1": "Arunachal Pradesh",
+  "Option2": "Mizoram",
+  "Option3": "Manipur",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-09-07T09:08:41.015Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-07T09:08:41.015Z"
+  }
+}]

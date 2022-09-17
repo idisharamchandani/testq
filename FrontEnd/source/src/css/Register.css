@@ -1,0 +1,42 @@
+.bgregisterimg{
+    background-image: url('../Images/register.jpg');
+    background-repeat: no-repeat;  
+    background-size: cover; 
+    height:900px;
+    position: relative;
+}
+
+.register{
+   margin-top: 250px;
+   position: absolute;
+   margin-left: 250px;
+   color: white;
+}
+
+.logininput{
+    width: 100%;
+    padding: 5px;
+    border: 1px solid #dddddd;
+}
+
+.loginbutton
+{
+    
+    background-color: #00958f;
+    border:none;
+    margin-top: 10px;
+    margin-left: 20px;
+    border-radius: 2px;
+    padding: 5px 35px 5px 35px;
+    font-family: 'Dosis', sans-serif;
+    font-weight: 900;
+    font-style: bold;
+    margin-bottom: 10px;
+    color: white;
+    font-size: 20px;
+    width: 740px;
+}
+
+
+
+

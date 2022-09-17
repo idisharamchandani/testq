@@ -1,0 +1,112 @@
+[{
+  "_id": {
+    "$oid": "6317200d09ee4355cf9beaf5"
+  },
+  "FirstName": "Disha",
+  "LastName": "Ramchandani",
+  "Standard": 10,
+  "Country": "India",
+  "StreetAddress": "05 gaikwad",
+  "Town_City": "Vadodara",
+  "State": "Gujarat",
+  "PinCode": 390009,
+  "Phone": 7600761964,
+  "Email": "dchandani2000@gmail.com",
+  "Password": "$2a$10$yjRsBe.PYedvwdPrlc5Hf.b3ZIgiafYRRj9r3xP8rMpa2qFQanTC.",
+  "createdAt": {
+    "$date": "2022-09-06T10:25:17.539Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-06T10:25:17.539Z"
+  },
+  "__v": 0,
+  "isAdmin": "true"
+},{
+  "_id": {
+    "$oid": "63199f74291940110152f4da"
+  },
+  "FirstName": "Rahul",
+  "LastName": "Shah",
+  "Standard": 10,
+  "Country": "India",
+  "StreetAddress": " 05 deli",
+  "Town_City": "Surat",
+  "State": "Gujarat",
+  "PinCode": 6876876,
+  "Phone": 8976234516,
+  "Email": "rahul@gmail.com",
+  "Password": "$2a$10$H5uSB02gKUkl/0mgAgvapeIMkxg/eXxOkdwzoNdIdGfMHt4JhQky.",
+  "createdAt": {
+    "$date": "2022-09-08T07:53:24.058Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-08T07:53:24.058Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63199fc1291940110152f4dd"
+  },
+  "FirstName": "Mansi",
+  "LastName": "Shah",
+  "Standard": 11,
+  "Country": "India",
+  "StreetAddress": " 05 deli",
+  "Town_City": "Dahod",
+  "State": "Gujarat",
+  "PinCode": 345678,
+  "Phone": 8976234545,
+  "Email": "mansi@gmail.com",
+  "Password": "$2a$10$39BzYZToWLtiQA.8IOEP5eZugYou94e60TLBsNKsty9MYCnR9lSTy",
+  "createdAt": {
+    "$date": "2022-09-08T07:54:41.920Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-08T07:54:41.920Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63199ffd291940110152f4e0"
+  },
+  "FirstName": "Vivek",
+  "LastName": "Kumar",
+  "Standard": 11,
+  "Country": "India",
+  "StreetAddress": " 05 deli",
+  "Town_City": "Mumbai",
+  "State": "Maharashtra",
+  "PinCode": 456789,
+  "Phone": 8976234345,
+  "Email": "vivek@gmail.com",
+  "Password": "$2a$10$RAtKOnVMGtMkNp9ArkM6a.UGjjSiw.KXD460dZT09Beatf8XqUrsa",
+  "createdAt": {
+    "$date": "2022-09-08T07:55:41.828Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-08T07:55:41.828Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6319a03a291940110152f4e3"
+  },
+  "FirstName": "Ashok",
+  "LastName": "Kumar",
+  "Standard": 7,
+  "Country": "India",
+  "StreetAddress": " 05 deli",
+  "Town_City": "Mumbai",
+  "State": "Maharashtra",
+  "PinCode": 456789,
+  "Phone": 8976234045,
+  "Email": "ashok@gmail.com",
+  "Password": "$2a$10$8fSKlkAJRDG6LjdYVb4gFeWhIxJ4dKBsru7JaX6iRYWsvK0Kxfvvy",
+  "createdAt": {
+    "$date": "2022-09-08T07:56:42.707Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-08T07:56:42.707Z"
+  },
+  "__v": 0
+}]
